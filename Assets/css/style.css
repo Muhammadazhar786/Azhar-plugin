@@ -1,0 +1,10 @@
+article.post-news{
+	max-width: 960px;
+	margin: auto;
+	
+}
+article.post-news h2{
+	color: red;
+}
+
+
